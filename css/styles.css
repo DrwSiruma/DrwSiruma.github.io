@@ -11484,3 +11484,8 @@ section.resume-section .resume-section-content {
   width: 100%;
   height: auto;
 }
+
+.small-logo {
+    width: 100px;
+    height: auto;
+}
